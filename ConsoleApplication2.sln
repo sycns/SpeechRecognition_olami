@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_NluApiEexample", "E:\Users\孙言超\Desktop\olami-api-quickstart-dotnet-samples-master\natural-language-understanding\text-input\_NluApiEexample.csproj", "{CD93FAA9-B96F-44BD-B290-3FCDBC0165D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_SpeechApiExample", "E:\Users\孙言超\Desktop\olami-api-quickstart-dotnet-samples-master\cloud-speech-recognition\getting-started\_SpeechApiExample.csproj", "{C384CD19-0AC5-47D9-AED5-FBE287AD1BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD93FAA9-B96F-44BD-B290-3FCDBC0165D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD93FAA9-B96F-44BD-B290-3FCDBC0165D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD93FAA9-B96F-44BD-B290-3FCDBC0165D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD93FAA9-B96F-44BD-B290-3FCDBC0165D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C384CD19-0AC5-47D9-AED5-FBE287AD1BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C384CD19-0AC5-47D9-AED5-FBE287AD1BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C384CD19-0AC5-47D9-AED5-FBE287AD1BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C384CD19-0AC5-47D9-AED5-FBE287AD1BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
